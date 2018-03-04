@@ -1,5 +1,4 @@
-language: php
-php:
-  - 5.5
-  - 5.4
-script: phpunit Test.php
+language: ruby
+rvm:
+  - 2.5.0
+script: build.sh
