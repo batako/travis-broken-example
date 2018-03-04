@@ -1,0 +1,53 @@
+{
+  "MiniTest": {
+    "coverage": {
+      "/Users/batako/Development/travis-broken-example/fuga/app/controllers/hello_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/batako/Development/travis-broken-example/fuga/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/batako/Development/travis-broken-example/fuga/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/batako/Development/travis-broken-example/fuga/app/helpers/hello_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/batako/Development/travis-broken-example/fuga/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/batako/Development/travis-broken-example/fuga/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/batako/Development/travis-broken-example/fuga/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/batako/Development/travis-broken-example/fuga/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/batako/Development/travis-broken-example/fuga/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1520185257
+  }
+}
